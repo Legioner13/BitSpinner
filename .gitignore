@@ -8,3 +8,8 @@
 *.unitypackage
 /build/
 /dist/
+*.env
+.env*
+secrets*.json
+*.p12
+*.keystore

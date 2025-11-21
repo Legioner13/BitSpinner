@@ -17,11 +17,41 @@ Collect, spin, and profit. Play on Telegram and watch your crypto grow.
 - Dockerized production, website + Telegram admin bot.
 
 ## Screenshots
+# BitSpinner — Telegram WEB3 Mini App Game
+
+Collect, spin, and profit. Play on Telegram and watch your crypto grow.
+
+**Client:** Unity/C#  
+**Backend:** Azure PlayFab + Azure  
+**Services:** Python (referrals, payments, anti-fraud)  
+**Infra:** Docker  
+**Integrations:** Telegram Wallet/Payments & Stars, website + admin bot.
+
+> This repo is a **showcase** (screens, videos, docs). Proprietary source code is **not** published.
+
+---
+
+## Screens
+
 <p align="center">
-  <img src="assets/screenshots/s1.jpg" width="31%"/>
-  <img src="assets/screenshots/s2.jpg" width="31%"/>
-  <img src="assets/screenshots/s3.jpg" width="31%"/>
+  <img src="media/screens/Screenshot_1.jpeg" width="280" />
+  <img src="media/screens/Screenshot_2.jpeg" width="280" />
+  <img src="media/screens/Screenshot_3.jpeg" width="280" />
 </p>
+
+## Short video
+
+- Teaser (mp4): [`media/videos/BitSpinner.mp4`](media/videos/BitSpinner.mp4)  
+  *(or link to Telegram/YouTube for full video)*
+
+## Key features
+- Telegram Mini App with Wallet/Payments & Stars
+- Referral and anti-fraud microservices (Python)
+- Azure PlayFab backend + Azure services
+- Dockerized production, website & admin bot
+
+## Contact
+Business inquiries: [LinkedIn](https://www.linkedin.com/in/gennady-mikhaylov) • email in profile
 
 ## Tech Stack
 Unity/C#, Azure PlayFab & Azure, Python (FastAPI), Docker, Telegram Mini Apps (Wallet/Payments & Stars).

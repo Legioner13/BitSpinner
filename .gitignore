@@ -1,0 +1,10 @@
+# we keep only showcase assets/docs
+*.psd
+*.ai
+*.sketch
+*.zip
+*.rar
+*.7z
+*.unitypackage
+/build/
+/dist/

@@ -37,6 +37,8 @@ Collect, spin, and profit. Play on Telegram and watch your crypto grow.
   <img src="media/screens/Screenshot_1.jpeg" width="280" />
   <img src="media/screens/Screenshot_2.jpeg" width="280" />
   <img src="media/screens/Screenshot_3.jpeg" width="280" />
+  <img src="media/screens/Screenshot_4.jpeg" width="280" />
+  <img src="media/screens/Screenshot_5.jpeg" width="280" />
 </p>
 
 ## Short video

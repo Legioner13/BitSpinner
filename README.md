@@ -27,6 +27,6 @@ Collect, spin, and profit. Play on Telegram and watch your crypto grow.
 Unity/C#, Azure PlayFab & Azure, Python (FastAPI), Docker, Telegram Mini Apps (Wallet/Payments & Stars).
 
 ## Contact
-Gennady Mikhaylov — Cancún, MX  
+Mikhael Gennady — Cancún, MX  
 LinkedIn: https://www.linkedin.com/in/gennady-mikhaylov/  
 Email: mikhael1313@pm.me
